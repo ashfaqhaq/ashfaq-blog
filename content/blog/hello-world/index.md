@@ -1,12 +1,32 @@
 ---
-title: Hello Ashfaq
-date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
+title: Hello Grid
+date: "2020-09-02T00:31:03.284Z"
+description: "Grid Layout"
 ---
 
 This is my first post on my new fake blog! How exciting!
 
+Even though flex has been in the run for quite alot of time now, the grid system was introduced to lower the pain of designing the layout.
+
+Implemention of a flex is during the procedure of defining UI components whereas grids are used for the layout of the page.
+
+
+## Compatibility
+
+Full Support : FF52+,Chrome 57+,Safari 10.1+,Opera 44+,iOS Safari, Chrome for Android 59+, FF Andriod 55+,Edge 16.
+
+Partial Support: IE 10,IE 11,Edge 12-15.
+
+No Support: Mostly Mobile browsers. But that's not a major concern as we always stackup the content.
+
 I'm sure I'll write a lot more interesting things in the future.
+
+# EOD #1!
+---
+title: Hello Grid 2
+date: "2020-09-02T00:12:03.284Z"
+description: "Grid Layout 2"
+---
 
 Oh, and here's a great quote from this Wikipedia on
 [salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg).
