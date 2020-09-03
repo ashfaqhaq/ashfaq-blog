@@ -21,12 +21,20 @@ No Support: Mostly Mobile browsers. But that's not a major concern as we always 
 
 I'm sure I'll write a lot more interesting things in the future.
 
-# EOD #1!
+### EOD #1!
 ---
-title: Hello Grid 2
-date: "2020-09-02T00:12:03.284Z"
-description: "Grid Layout 2"
----
+
+```
+<div class="wrapper">
+  <div class="one">One</div>
+  <div class="two">Two</div>
+  <div class="three">Three</div>
+  <div class="four">Four</div>
+  <div class="five">Five</div>
+  <div class="six">Six</div>
+</div>
+```
+
 
 Oh, and here's a great quote from this Wikipedia on
 [salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg).
